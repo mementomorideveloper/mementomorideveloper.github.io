@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'DisgustingBehaviour';
-    src: url(fonts/Disgusting\ Behavior\ Regular.ttf);
+    src: url(fonts/Relevance-trial-Medium.ttf);
 }
 body{
     margin: 0;
@@ -13,14 +13,10 @@ body{
     background: rgba(0, 0, 0, 0.4);
     padding: 40px;
     text-align: center;
-    margin: auto;
-    margin-top: 5%;
+    margin: 5% auto auto;
     color: white;
     font-family: 'DisgustingBehaviour',sans-serif;
-    border-top-right-radius: 25px;
-    border-top-left-radius: 25px;
-    border-bottom-right-radius: 25px;
-    border-bottom-left-radius: 25px;
+    border-radius: 25px;
   }
   .box-img{
     border-radius: 50%;
